@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Mario!
 
-💻 ** Telematic Engineer | Security Enthusiast | Software Developer | Gacha addict **
+💻 **Telematic Engineer | Security Enthusiast | Software Developer | Gacha addict**
 
 🚀 Passionate about crafting robust applications, ensuring security at every level, and optimizing assets for peak performance.
 
