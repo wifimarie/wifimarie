@@ -2,9 +2,9 @@
 
 💻 **Telematic Engineer | Security Enthusiast | Software Developer | Gacha addict**
 
-🚀 Passionate about crafting robust applications, ensuring security at every level, and optimizing assets for peak performance.
+🚀 Passionate about ensuring security at every level, and optimizing assets for peak performance.
 
-🛠️ **Tech Stack:** App/Web Development | Security | Backend & Frontebd Design
+🛠️ **Tech Stack:** App/Web Development | Security | Backend & Frontend Design
 
 🎨 **Design Thinker:** Balancing functionality with aesthetics for seamless user experiences.
 
